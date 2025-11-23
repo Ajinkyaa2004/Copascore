@@ -1,0 +1,190 @@
+{
+    "id": 8,
+    "sport_id": 1,
+    "country_id": 462,
+    "venue_id": 230,
+    "gender": "male",
+    "name": "Liverpool",
+    "short_code": "LIV",
+    "image_path": "https://cdn.sportmonks.com/images/soccer/teams/8/8.png",
+    "founded": 1892,
+    "type": "domestic",
+    "placeholder": false,
+    "last_played_at": "2025-11-22 15:00:00",
+    "latest": [
+        {
+            "id": 19427572,
+            "name": "Liverpool vs Nottingham Forest",
+            "starting_at": "2025-11-22 15:00:00",
+            "result_info": "Nottingham Forest won after full-time.",
+            "scores": [
+                {
+                    "participant_id": 8,
+                    "score": {
+                        "goals": 0
+                    },
+                    "description": "CURRENT"
+                },
+                {
+                    "participant_id": 63,
+                    "score": {
+                        "goals": 3
+                    },
+                    "description": "CURRENT"
+                }
+            ],
+            "statistics": [
+                {
+                    "type_id": 42,
+                    "participant_id": 8,
+                    "data": {
+                        "value": 21
+                    },
+                    "type": {
+                        "code": "shots-total"
+                    }
+                },
+                {
+                    "type_id": 86,
+                    "participant_id": 8,
+                    "data": {
+                        "value": 4
+                    },
+                    "type": {
+                        "code": "shots-on-target"
+                    }
+                },
+                {
+                    "type_id": 80,
+                    "participant_id": 8,
+                    "data": {
+                        "value": 629
+                    },
+                    "type": {
+                        "code": "passes"
+                    }
+                },
+                {
+                    "type_id": 82,
+                    "participant_id": 8,
+                    "data": {
+                        "value": 89
+                    },
+                    "type": {
+                        "code": "successful-passes-percentage"
+                    }
+                },
+                {
+                    "type_id": 34,
+                    "participant_id": 8,
+                    "data": {
+                        "value": 8
+                    },
+                    "type": {
+                        "code": "corners"
+                    }
+                }
+            ],
+            "xgfixture": [
+                {
+                    "type_id": 5304,
+                    "participant_id": 8,
+                    "data": {
+                        "value": 2.1397
+                    },
+                    "type": {
+                        "code": "expected-goals"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 19427561,
+            "name": "Manchester City vs Liverpool",
+            "starting_at": "2025-11-09 16:30:00",
+            "result_info": "Manchester City won after full-time.",
+            "scores": [
+                {
+                    "participant_id": 8,
+                    "score": {
+                        "goals": 0
+                    },
+                    "description": "CURRENT"
+                },
+                {
+                    "participant_id": 9,
+                    "score": {
+                        "goals": 3
+                    },
+                    "description": "CURRENT"
+                }
+            ]
+        },
+        {
+            "id": 19568538,
+            "name": "Liverpool vs Real Madrid",
+            "starting_at": "2025-11-04 20:00:00",
+            "result_info": "Liverpool won after full-time.",
+            "scores": [
+                {
+                    "participant_id": 8,
+                    "score": {
+                        "goals": 1
+                    },
+                    "description": "CURRENT"
+                },
+                {
+                    "participant_id": 3468,
+                    "score": {
+                        "goals": 0
+                    },
+                    "description": "CURRENT"
+                }
+            ]
+        },
+        {
+            "id": 19427550,
+            "name": "Liverpool vs Aston Villa",
+            "starting_at": "2025-11-01 20:00:00",
+            "result_info": "Liverpool won after full-time.",
+            "scores": [
+                {
+                    "participant_id": 8,
+                    "score": {
+                        "goals": 2
+                    },
+                    "description": "CURRENT"
+                },
+                {
+                    "participant_id": 15,
+                    "score": {
+                        "goals": 0
+                    },
+                    "description": "CURRENT"
+                }
+            ]
+        },
+        {
+            "id": 19585905,
+            "name": "Liverpool vs Crystal Palace",
+            "starting_at": "2025-10-29 19:45:00",
+            "result_info": "Crystal Palace won after full-time.",
+            "scores": [
+                {
+                    "participant_id": 8,
+                    "score": {
+                        "goals": 0
+                    },
+                    "description": "CURRENT"
+                },
+                {
+                    "participant_id": 51,
+                    "score": {
+                        "goals": 3
+                    },
+                    "description": "CURRENT"
+                }
+            ]
+        }
+    ]
+}
