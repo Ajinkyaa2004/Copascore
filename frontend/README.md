@@ -69,3 +69,4 @@ const API_URL = 'http://localhost:8000';
 - Glassmorphism effects
 - Responsive grid layouts
 - Smooth animations
+ 
